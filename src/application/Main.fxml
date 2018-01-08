@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="300.0" prefWidth="300.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/9.0.1">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="83.0" layoutY="37.0" prefHeight="81.0" prefWidth="123.0" text="WELCOME" textFill="#e11212">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="112.0" fitWidth="152.0" layoutX="69.0" layoutY="118.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Pictures/arizona_cardinals_sports_team_football_club_az_98636_2560x1600.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
